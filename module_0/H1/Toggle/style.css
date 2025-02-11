@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  a {
+    color: blue;
+    transition: color 0.3s;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+  .dark-mode a {
+    color: lightblue;
+  }
+  
